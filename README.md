@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KK998
-- 👀 I’m interested in building great UI and bioinformatics.
+- 👀 I’m interested in building great UI and security.
 - 🌱 I’m currently learning: C# && .NET
 - 📫 How to reach me: klemen.komel@gmail.com.
 
